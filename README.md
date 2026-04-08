@@ -1,1 +1,2 @@
-# handcricket-privacy.github.io
+# HandCricket-Privacy
+HandCricket Game privacy Policy 
